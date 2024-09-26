@@ -1,6 +1,11 @@
 # Plant-Disease-Monitoring-Expert-with-Supplements
 This project utilizes the publicly available and well-known PlantVillage Dataset, published by crowdAI during the PlantVillage Disease Classification Challenge.
 
+![Status](https://img.shields.io/badge/status-completed-brightgreen) 
+![Version](https://img.shields.io/badge/version-1.0.0-blue) 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-Python-orange) 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Plant Image](https://cdn-images-1.medium.com/max/1200/1*FswlF4lZPQ4kT_gkybacZw.jpeg)
 
 ## Introduction
@@ -74,3 +79,10 @@ It contains a total of **38 classes** of plant diseases and **1 class** of backg
 38. Tomato Healthy
 
 Due to limited computational power, training the classification model locally on standard machines can be challenging. To overcome this, we leverage the processing power of Google Colab, which provides easy access to a free TPU instance for efficient model training.
+
+
+## Connect with Me
+
+- [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
+- Email: aezamsos@gmail.com
+- WhatsApp: +918328476955
