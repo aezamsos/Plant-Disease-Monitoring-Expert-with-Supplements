@@ -6,6 +6,7 @@ This project utilizes the publicly available and well-known PlantVillage Dataset
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/language-Python-orange) 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 ![Plant Image](https://cdn-images-1.medium.com/max/1200/1*FswlF4lZPQ4kT_gkybacZw.jpeg)
 
 ## Introduction
