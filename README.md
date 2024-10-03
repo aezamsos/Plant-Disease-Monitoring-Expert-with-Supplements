@@ -1,4 +1,5 @@
 # Plant-Disease-Monitoring-Expert-with-Supplements
+This project aims to create an automated plant disease monitoring system powered by image recognition and machine learning. The system will analyze plant images captured through smartphones or dedicated cameras to detect visible symptoms of diseases. Upon identifying a disease, the system will recommend supplements, pesticides, or organic treatments to address the issue and improve the plant's health.
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen) 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) 
